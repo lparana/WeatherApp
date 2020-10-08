@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  WeatherApp
+
+  Created by Lara Poveda on 06/10/2020.
+  
+*/
+
+"ERROR_TITLE_INFO" = "Error getting weather info";
+"ERROR_MESSAGE_INFO" = "An error ocurred when trying to get weather's information. Try again later.";
+"ERROR_TITLE_LOCATION" = "Error gathering your location";
+"ERROR_MESSAGE_LOCATION" = "An error ocurred when trying to get your location information. Try again later.";

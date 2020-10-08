@@ -1,0 +1,13 @@
+//
+//  Production.xcconfig
+//  WeatherApp
+//
+//  Created by Lara Poveda on 04/10/2020.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+APIKEY = 
+BASEURL = https:/$()/api.openweathermap.org/data/2.5/
+
